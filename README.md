@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shafik</h1>
+<h1 align="center">Hey 👋, I'm Shafik</h1>
 <h3 align="center">A passionate software developer from Uganda</h3>
 
 - 👯 I’m looking to collaborate on **Systems development and optimisation**
