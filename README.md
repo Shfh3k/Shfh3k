@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Shafik</h1>
 <h3 align="center">A Software developer from Uganda</h3>
 
-- 👯 I’m looking to collaborate on **Systems development and optimisation**
+-  I’m looking to collaborate on **Systems development and optimisation**
 
 - 💬 Ask me about **Android, Desktop, Low-level development and Web-development**
 
