@@ -6,7 +6,7 @@
 - 💬 Ask me about **Android, Desktop, Low-level development and Web-development**
 
 <p>Contact me</p>
-<p align="left" title ="shfh3k@gmail.com">- 📫<a href="mailTo:shfh3k@yahoo.com" target="blank">E-mail..<img src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG4.png" alt="Telegram"width="20" height="16"></a></p>
+<p align="left" title ="">- 📫<a href="mailTo:" target="blank">E-mail..<img src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG4.png" alt="Telegram"width="20" height="16"></a></p>
 <p align="left">- 📫<a href="https://t.me/shfh3k" target="blank">Telegram..<img src="https://pngimg.com/uploads/telegram/telegram_PNG35.png" alt="Telegram"width="20" height="18"></a></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
